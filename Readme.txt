@@ -1,6 +1,15 @@
-Thanks for downloading this template!
+Akshay Kumar Majji Portfolio Website
 
-Template Name: akshay-Portfolio
-Template URL: https://bootstrapmade.com/akshay-portfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Technologies Used:
+HTML
+CSS
+Bootstrap
+JavaScript
+
+Projects:
+Health AI
+ShopSmart
+Network Monitoring
+Maze Solver
+
+Deployed using GitHub Pages
