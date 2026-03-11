@@ -1,22 +1,6 @@
-# Akshay Kumar Majji Portfolio
+Thanks for downloading this template!
 
-This is my personal developer portfolio website built using HTML, CSS, Bootstrap and JavaScript.
-
-🔗 Live Website
-https://akshaykumar1222.github.io/akshay-portfolio
-
-Technologies Used
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
-
-Projects
-- Health AI
-- ShopSmart
-- Network Traffic Monitoring
-- Maze Solver
-
-Hosted using GitHub Pages.
-
-Deployed using GitHub Pages
+Template Name: iPortfolio
+Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
